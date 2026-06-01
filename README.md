@@ -153,7 +153,7 @@ npm start
 ### Step 3 — Add to `.env`
 
 ```env
-SESSION_ID=GlobalTechInfo/MEGA-MD_xxxxxxxxxxxxxxxxxxxxxxxx
+SESSION_ID=GlobalTechInfo/MEGA-MD_8e1f04270ef00adfe22f5855dd74a30d
 ```
 
 ### Alternative — Pairing via terminal
@@ -161,7 +161,7 @@ SESSION_ID=GlobalTechInfo/MEGA-MD_xxxxxxxxxxxxxxxxxxxxxxxx
 Leave `SESSION_ID` empty and set:
 
 ```env
-PAIRING_NUMBER=923001234567
+PAIRING_NUMBER=923207427843
 ```
 
 > [!NOTE]
